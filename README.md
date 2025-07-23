@@ -106,7 +106,7 @@ Give a ⭐ if you enjoyed the game!
 MIT License
 
 ## 📞 Contact
-- Project Link: [https://github.com/lavradodosilicio/cobra](https://github.com/jancarauma/cobra)
+- Project Link: [https://github.com/jancarauma/cobra](https://github.com/jancarauma/cobra)
 - Creator: @engjango (Jango)
 
 ## 🏆 Acknowledgments
