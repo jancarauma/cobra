@@ -33,7 +33,7 @@ Cobra is an immersive snake game for Linux, crafted with passion and C programmi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/lavradodosilicio/cobra.git
+git clone https://github.com/jancarauma/cobra.git
 cd cobra
 ```
 
